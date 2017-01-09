@@ -1,0 +1,16 @@
+body {
+  background-color: #F63574;
+}
+li {
+  color: #3BD6F9;
+  display: inline;
+  list-style: none;
+}
+span {
+  display: block;
+  border: 1px solid lightblue;
+  margin 1px 1px 1px 1px;
+}
+article:nth-child(even) {
+  border: 1px solid purple;
+}
