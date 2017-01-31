@@ -15,6 +15,7 @@ function coinCounter (input) {
   // Initialize a JavaScript object to hold the coins
   var coinPurse = {};
   coinPurse.quarters = 0;
+  coinPurse.dimes = 0;
   coinPurse.nickels = 0;
   coinPurse.pennies = 0;
 

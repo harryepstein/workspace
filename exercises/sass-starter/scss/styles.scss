@@ -1,0 +1,53 @@
+$font-stack: Helvetica, sans-serif;
+$link-color: red;
+$secondary-color: blue;
+
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    background-color: $secondary-color;
+  }
+  li {
+    display: inline-block;
+  }
+  a {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none;
+    color: $link-color;
+  }
+
+}
+@mixin border-radius($radius){
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  -ms-border-radius: $radius;
+  border-radius: $radius;
+}
+.box {
+  @include border-radius(10px);
+}
+.message {
+  border: 1px;
+  border
+}
+.success {
+@extend .message;
+border-color: green;
+}
+.error {
+@extend .message;
+border-color: red;
+}
+
+article[role='main']{
+  float: left;
+  width: 600px /960px * 100%;
+
+}
+article[role='main']{
+
+
+}

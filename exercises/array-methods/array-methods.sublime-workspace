@@ -1,0 +1,939 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"function"
+			],
+			[
+				"c",
+				"colors"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"char",
+				"characterInputValue"
+			],
+			[
+				"high",
+				"heightInput"
+			],
+			[
+				"cha",
+				"character"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"heig",
+				"heightInput"
+			],
+			[
+				"chara",
+				"characterInput"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"ch",
+				"characterInput"
+			],
+			[
+				"print",
+				"printAsterisks"
+			],
+			[
+				"as",
+				"asteriskLine"
+			],
+			[
+				"spa",
+				"spacesLine"
+			],
+			[
+				"bord",
+				"border-radius\tCompass"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"l",
+				"let"
+			],
+			[
+				"t",
+				"the"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"p",
+				"printAsterisc"
+			],
+			[
+				"b",
+				"bands"
+			],
+			[
+				"band",
+				"bandElement"
+			],
+			[
+				"arial",
+				"Arial"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"inl",
+				"inline-flex"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fle",
+				"flex"
+			],
+			[
+				"flex",
+				"inline-flex"
+			],
+			[
+				"coin",
+				"coinPurse"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"in",
+				"inline-grid"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"n",
+				"Navigation"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"pr",
+				"productPlace"
+			],
+			[
+				"user",
+				"userRequest"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"slack",
+				"slackContent"
+			],
+			[
+				"o",
+				"object"
+			],
+			[
+				"cons",
+				"treeConstructor"
+			],
+			[
+				"spaces",
+				"spacesValue"
+			],
+			[
+				"backgrou",
+				"background-origin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"space",
+				"spacesValue"
+			],
+			[
+				"Tr",
+				"treeTop"
+			],
+			[
+				"tree",
+				"treeObject"
+			],
+			[
+				"key",
+				"keyboardEvt"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"new",
+				"newestSonnet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 692,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 441,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "c",
+		"selected_items":
+		[
+			[
+				"c",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"lived",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sassbea",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax: sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liver",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liverel",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"li",
+				"LiveReload: Self test"
+			],
+			[
+				"Liverel",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packagecon",
+				"Package Control: List Packages"
+			],
+			[
+				"live rel",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liverelo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"todo",
+				"Set Syntax: Todo"
+			],
+			[
+				"ins",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"To do",
+				"Set Syntax: Todo"
+			],
+			[
+				"Todo",
+				"Set Syntax: Todo"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Babel Transform"
+			],
+			[
+				"install ",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"skin",
+				"Select Skin"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/harryepstein/Documents/workspace/exercises/array-methods"
+	],
+	"file_history":
+	[
+		"/Users/harryepstein/Documents/workspace/exercises/array-methods/main.css",
+		"/Users/harryepstein/Documents/workspace/exercises/array-methods/main.js",
+		"/Users/harryepstein/Documents/challenges/static-web/javascript/milestone-challenge-js-harryepstein/main.js",
+		"/Users/harryepstein/Documents/workspace/exercises/musichistory-boilerplate/index.html",
+		"/Users/harryepstein/Documents/workspace/exercises/musichistory-boilerplate/main.css",
+		"/Users/harryepstein/Documents/challenges/static-web/javascript/milestone-challenge-js-harryepstein/index.html",
+		"/Users/harryepstein/Documents/workspace/exercises/sass-starter/scss/styles.scss",
+		"/Users/harryepstein/Documents/workspace/exercises/sass-starter/css/styles.css.map",
+		"/Users/harryepstein/Documents/workspace/exercises/sass-starter/css/styles.css",
+		"/Users/harryepstein/Documents/workspace/exercises/sass-starter/index.html",
+		"/Users/harryepstein/Documents/workspace/exercises/sass-starter/scss/index.html",
+		"/Users/harryepstein/Documents/workspace/exercises/sonnet/index.html",
+		"/Users/harryepstein/Documents/workspace/exercises/sonnet/sonnet.js",
+		"/Users/harryepstein/Documents/workspace/always-sunny-ipsum/index.",
+		"/Users/harryepstein/Documents/workspace/exercises/boy-bands-veg/index.html",
+		"/Users/harryepstein/Documents/workspace/exercises/boy-bands-veg/boybands.js",
+		"/Users/harryepstein/Downloads/kingdom/index.php",
+		"/Users/harryepstein/Documents/workspace/nashville-software-school-group-project-static-web-part-two-team-ravenclaw/about.html",
+		"/Users/harryepstein/Documents/workspace/nashville-software-school-group-project-static-web-part-two-team-ravenclaw/history.html",
+		"/Users/harryepstein/Documents/workspace/nashville-software-school-group-project-static-web-part-two-team-ravenclaw/index.html",
+		"/Users/harryepstein/Documents/workspace/nashville-software-school-group-project-static-web-part-two-team-ravenclaw/main.css",
+		"/Users/harryepstein/Documents/workspace/nashville-software-school-group-project-static-web-part-two-team-ravenclaw/main.js",
+		"/Users/harryepstein/Documents/workspace/exercises/group-projects/group-project-static-web-team-ninja/index.html",
+		"/Users/harryepstein/Documents/workspace/exercises/group-projects/group-project-static-web-team-ninja/css/nav.css",
+		"/Users/harryepstein/Documents/workspace/exercises/group-projects/group-project-static-web-team-ninja/js/product.js",
+		"/Users/harryepstein/Documents/workspace/exercises/group-projects/group-project-static-web-team-ninja/products.html",
+		"/Users/harryepstein/Dropbox/Public/js/product.js",
+		"/Users/harryepstein/.zshrc",
+		"/Users/harryepstein/Documents/workspace/exercises/musichistory-boilerplate/TODO.todo",
+		"/Users/harryepstein/Documents/workspace/exercises/musichistory-boilerplate/README.md",
+		"/Users/harryepstein/Documents/workspace/exercises/group-projects/group-project-static-web-team-ninja/README.md",
+		"/Users/harryepstein/Documents/workspace/exercises/group-projects/group-project-static-web-team-ninja/harry.html",
+		"/Users/harryepstein/Documents/workspace/exercises/musichistory-boilerplate/profile.html",
+		"/Users/harryepstein/Documents/workspace/exercises/musichistory-boilerplate/music.html",
+		"/Users/harryepstein/Documents/workspace/exercises/musichistory-boilerplate/add-music.html",
+		"/Users/harryepstein/Documents/workspace/exercises/musichistory-boilerplate/Title.todo",
+		"/Users/harryepstein/Documents/workspace/exercises/musichistory-boilerplate/untitled.todo",
+		"/Users/harryepstein/Documents/workspace/exercises/javascript101/main.js",
+		"/Users/harryepstein/Documents/workspace/exercises/javascript101/index.html",
+		"/Users/harryepstein/Documents/workspace/exercises/countingcoins/coin.js",
+		"/Users/harryepstein/Documents/workspace/exercises/interactive-nav-bar/index.html",
+		"/Users/harryepstein/Documents/workspace/exercises/interactive-nav-bar/navigation.css",
+		"/Users/harryepstein/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/harryepstein/Documents/workspace/README.md",
+		"/Users/harryepstein/Documents/workspace/.gitignore",
+		"/Users/harryepstein/Documents/workspace/exercises/journal/journal/Journal Entry.md",
+		"/Users/harryepstein/Documents/workspace/exercises/journal/journal/Scratchpad.md",
+		"/Users/harryepstein/journal.txt",
+		"/Users/harryepstein/Documents/workspace/harryepstein.github.io/main.css",
+		"/Users/harryepstein/Documents/workspace/harryepstein.github.io/Contact.html",
+		"/Users/harryepstein/Documents/workspace/harryepstein.github.io/index.html",
+		"/Users/harryepstein/Documents/workspace/harryepstein.github.io/About.html",
+		"/Users/harryepstein/workspace/exercises/spa/seasonal-sales/seasonal-sales.js",
+		"/Users/harryepstein/Documents/workspace/harryepstein.github.io/Test.html",
+		"/Users/harryepstein/Documents/test.css",
+		"/Users/harryepstein/Documents/workspace/exercises/journal/journal/CL Girlfriend Ad",
+		"/Users/harryepstein/Documents/test.",
+		"/Users/harryepstein/workspace/exercises/spa/seasonal-sales/products.json",
+		"/Users/harryepstein/workspace/exercises/spa/seasonal-sales/index.html",
+		"/Users/harryepstein/Documents/my-smarter-site/practice.html",
+		"/Users/harryepstein/workspace/XHR-Practice/randomUser/index.html",
+		"/Users/harryepstein/workspace/XHR-Practice/index.html",
+		"/Users/harryepstein/workspace/XHR-Practice/xhr.js",
+		"/Users/harryepstein/workspace/exercises/the-static-web/mastery-exercise-static-web-js-harryepstein/quiz.js",
+		"/Users/harryepstein/workspace/exercises/the-static-web/mastery-exercise-static-web-js-harryepstein/index.html",
+		"/Users/harryepstein/Documents/workspace/harryepstein.github.io/css/normalize.css",
+		"/Users/harryepstein/workspace/exercises/the-static-web/mastery-exercise-static-web-js-harryepstein/README.md",
+		"/Users/harryepstein/workspace/exercises/the-static-web/productcards/index.html",
+		"/Users/harryepstein/workspace/exercises/the-static-web/productcards/style.css",
+		"/Users/harryepstein/workspace/exercises/the-static-web/banking-form/main.css",
+		"/Users/harryepstein/workspace/exercises/the-static-web/banking-form/index.html",
+		"/Users/harryepstein/workspace/exercises/the-static-web/blog/index.html",
+		"/Users/harryepstein/workspace/exercises/the-static-web/reindeer/index.html",
+		"/Users/harryepstein/workspace/exercises/the-static-web/reindeer/reindeer.js",
+		"/Users/harryepstein/workspace/exercises/the-static-web/sonnet/sonnet.js",
+		"/Users/harryepstein/workspace/exercises/the-static-web/sonnet/index.html",
+		"/Users/harryepstein/Desktop/My Website.html",
+		"/Users/harryepstein/.bash_history"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var",
+			"height",
+			"heigh",
+			"getElementbyName",
+			"input",
+			"i",
+			"printAsterisks",
+			"li",
+			"a",
+			"ABOUT",
+			"CONTACT",
+			".bio",
+			"scroll",
+			"Less",
+			"Kitten",
+			":",
+			"    <li></li>\n",
+			"that",
+			"document",
+			"document.getElementById(\"getUser\").addEventListener(\"click\", getUser)",
+			"img",
+			"<input type=\"checkbox\" name=\"special conditions\" value=\"Married\">Married</input>",
+			"   \t\t<",
+			"\t<",
+			"></"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										163,
+										165
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										147,
+										149
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								441,
+								441
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "array-methods.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"main.js"
+			],
+			[
+				"main",
+				"main.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"main.js",
+				"main.js"
+			],
+			[
+				"about",
+				"about.html"
+			],
+			[
+				"abou",
+				"about.html"
+			],
+			[
+				"n",
+				"css/nav.css"
+			],
+			[
+				"p",
+				"js/product.js"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"to",
+				"TODO.todo"
+			],
+			[
+				"c",
+				"main.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
